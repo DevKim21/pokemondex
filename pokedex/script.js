@@ -7,7 +7,7 @@ async function fetchPokemon() {
   const options = {
     method: "GET",
     headers: {
-      "x-rapidapi-key": "b6e720ba2bmsh76d33c150b57096p1f52b0jsn747d76de4211",
+      "x-rapidapi-key": "YOUR-API-KEY",
       "x-rapidapi-host": "pokemon-api3.p.rapidapi.com",
     },
   };
